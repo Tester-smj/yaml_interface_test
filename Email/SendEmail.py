@@ -5,12 +5,12 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 def sendMail():
-      sender = 'shimengjie@senbaba.cn'
-      receiver ='shimengjie@senbaba.cn'
+      sender = 'xxx@xxx.cn'
+      receiver ='xxx@xxx.cn'
       subject=u'[下单平台]接口自动化测试报告通知'
       smtpserver='smtp.exmail.qq.com'
-      username='shimengjie@senbaba.cn'
-      password='242815smj'
+      username='xxx@xxx.cn'
+      password='xxxx'
 
       msg = MIMEMultipart('related')
       msg['Subject'] = subject
