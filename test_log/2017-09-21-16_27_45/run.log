@@ -1,0 +1,10 @@
+[2017-09-21 16:27:45,671] [INFO] -----begin test-----
+[2017-09-21 16:27:45,671] [INFO] -----测试的接口是login_failed-----
+[2017-09-21 16:27:45,674] [DEBUG] Starting new HTTP connection (1): 127.0.0.1
+[2017-09-21 16:27:45,730] [DEBUG] http://127.0.0.1:14512 "POST http://www.senbaba.cn/login HTTP/1.1" 200 None
+[2017-09-21 16:27:45,732] [INFO] -----返回状态码是200-----
+[2017-09-21 16:27:45,733] [INFO] -----begin test-----
+[2017-09-21 16:27:45,733] [INFO] -----测试的接口是login_failed-----
+[2017-09-21 16:27:45,736] [DEBUG] Starting new HTTP connection (1): 127.0.0.1
+[2017-09-21 16:27:45,765] [DEBUG] http://127.0.0.1:14512 "POST http://www.senbaba.cn/login HTTP/1.1" 200 None
+[2017-09-21 16:27:45,766] [INFO] -----返回状态码是200-----
